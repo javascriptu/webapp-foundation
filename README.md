@@ -4,12 +4,12 @@ This is the foundation, structure, and set of libraries we will build off of in 
 
 ## Contents
 
-A customized HTML5 Boilerplate
-LESS & Twitter's Bootstrap
-jQuery
-Modernizr
-RequireJS
-and Jasmine with a RequireJS-ified SpecRunner
+- A customized HTML5 Boilerplate
+- LESS & Twitter's Bootstrap
+- jQuery
+- Modernizr
+- RequireJS
+- Jasmine with a RequireJS-ified SpecRunner
 
 ## Thanks
 
