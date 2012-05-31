@@ -20,7 +20,7 @@ body {
 #siteHeader {
   height:100px;
   #gradient > .vertical(lighten(@headerBackground,5%),darken(@headerBackground,5%));
-  .border-radius();
+  .border-radius(5px);
   border:1px solid darken(@headerBackground,20%);
   .shadow-minor;
   h1 {
@@ -35,6 +35,9 @@ body {
 
 #main {
   min-height:500px;
+}
+
+#welcome {
   p {
     font-size:50px;
     line-height:50px;
@@ -45,7 +48,7 @@ body {
 
 #siteFooter {
   #gradient > .vertical(lighten(@headerBackground,5%),darken(@headerBackground,5%));
-  .border-radius();
+  .border-radius(5px);
   border:1px solid darken(@headerBackground,20%);
   .shadow-minor;
   text-align:center;
