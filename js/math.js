@@ -1,5 +1,7 @@
 /*global define*/
 
+// Contrived example for tests. Not important and removable
+
 define(function(){
   "use strict";
 
